@@ -1,0 +1,3 @@
+- Used open jdk 11
+- create user using register end-point
+- get token using authenticate end-point
