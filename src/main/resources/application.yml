@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: demo
+
+jwt:
+  secret: secretKey
+  expiration: 3600000
+
+api:
+  users:
+    url: https://gorest.co.in/public/v2/users
+  posts:
+    url: https://gorest.co.in/public/v2/posts
+  comments:
+    url: https://gorest.co.in/public/v2/comments
